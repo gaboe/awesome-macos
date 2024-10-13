@@ -8,7 +8,9 @@ Raycast is best app that controls other apps.
 
 ## AlDente
 
-## Barbee
+## Ice
+
+## Arc Browser
 
 ## Shottr
 
