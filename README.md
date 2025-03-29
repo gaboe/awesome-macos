@@ -2,9 +2,11 @@
 
 ### A curated list of essential macOS applications
 
+### - by [gaboe](https://github.com/gaboe)
+
 # Must have
 
-## Raycast
+## [Raycast](https://www.raycast.com/)
 
 A game-changer for macOS productivity!
 
@@ -15,92 +17,62 @@ Pro tips:
 - Set up quick shortcuts for your most-used apps
 - Get the window management shortcuts working - they're a total time-saver
 
-https://www.raycast.com/
-
-## Ice
+## [Ice](https://github.com/jordanbaird/Ice)
 
 Menu bar manager to hide and reorder icons.
 
-https://github.com/jordanbaird/Ice
-
-## Shottr
+## [Shottr](https://shottr.cc/)
 
 Screenshot and screen recording tool with advanced annotation features.
 
-https://shottr.cc/
-
-## Dropover
+## [Dropover](https://dropoverapp.com/)
 
 Organize and manage your files with a beautiful and intuitive interface.
 
-https://dropoverapp.com/
-
-## AppCleaner
+## [AppCleaner](https://appcleaner.macupdate.com/)
 
 Thoroughly uninstall applications and remove all associated files.
 
-https://appcleaner.macupdate.com/
-
-## Homebrew
+## [Homebrew](https://brew.sh/)
 
 The missing package manager for macOS. Essential for installing and managing command-line tools and applications.
 
-https://brew.sh/
-
-## LICEcap
+## [LICEcap](https://www.cockos.com/licecap/)
 
 Simple and efficient screen recording tool for creating animated GIFs and WebM videos.
 
-https://www.cockos.com/licecap/
-
-## Cap
+## [Cap](https://cap.so/)
 
 Beautiful and powerful screen capture tool with advanced annotation features.
 
-https://cap.so/
-
 # Nice to have
 
-## AlDente
+## [AlDente](https://apphousekitchen.com/)
 
 Battery management tool that helps optimize your MacBook's battery life. While the exact battery savings may vary, it's worth trying if you're interested in battery optimization.
 
-https://apphousekitchen.com/
-
-## Keka
+## [Keka](https://www.keka.io/)
 
 Powerful file archiver with support for multiple formats and encryption.
 
-https://www.keka.io/
-
-## Klack
+## [Klack](https://tryklack.com/)
 
 Mechanical keyboard sound simulator for your Mac.
 
-https://tryklack.com/
-
 # Dev
 
-## Cursor
+## [Cursor](https://cursor.sh/)
 
 AI-powered code editor with built-in AI assistance for coding, debugging, and pair programming.
 
-https://cursor.sh/
-
-## Rider
+## [Rider](https://www.jetbrains.com/rider/)
 
 Cross-platform .NET IDE with advanced refactoring and debugging tools.
 
-https://www.jetbrains.com/rider/
-
-## iTerm2
+## [iTerm2](https://iterm2.com/)
 
 Enhanced terminal emulator with advanced features and customization options.
 
-https://iterm2.com/
-
-## oh my zsh
+## [oh my zsh](https://ohmyz.sh/)
 
 A delightful, open source, community-driven framework for managing your Zsh configuration.
-
-https://ohmyz.sh/
