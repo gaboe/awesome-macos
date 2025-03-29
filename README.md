@@ -6,6 +6,8 @@
 
 ## Raycast
 
+Absolute must have.
+
 Raycast is the ultimate productivity tool for controlling and automating your macOS apps. Highly recommended to set up custom shortcuts.
 
 https://www.raycast.com/
