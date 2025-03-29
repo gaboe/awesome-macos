@@ -1,6 +1,6 @@
 # awesome-macos
 
-### A curated list of essential macOS applications for full-stack software developers
+### A curated list of essential macOS applications
 
 # Must have
 
