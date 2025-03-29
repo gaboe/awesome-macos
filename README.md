@@ -2,7 +2,7 @@
 
 ### A curated list of essential macOS applications
 
-### - by [gaboe](https://github.com/gaboe)
+_by [gaboe](https://github.com/gaboe)_
 
 # Must have
 
