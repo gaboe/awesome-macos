@@ -32,7 +32,25 @@ https://dropoverapp.com/
 
 Thoroughly uninstall applications and remove all associated files.
 
-https://freemacsoft.net/appcleaner/
+https://appcleaner.macupdate.com/
+
+## Homebrew
+
+The missing package manager for macOS. Essential for installing and managing command-line tools and applications.
+
+https://brew.sh/
+
+## LICEcap
+
+Simple and efficient screen recording tool for creating animated GIFs and WebM videos.
+
+https://www.cockos.com/licecap/
+
+## Cap
+
+Beautiful and powerful screen capture tool with advanced annotation features.
+
+https://cap.so/
 
 # Nice to have
 
@@ -73,3 +91,9 @@ https://www.jetbrains.com/rider/
 Enhanced terminal emulator with advanced features and customization options.
 
 https://iterm2.com/
+
+## oh my zsh
+
+A delightful, open source, community-driven framework for managing your Zsh configuration.
+
+https://ohmyz.sh/
