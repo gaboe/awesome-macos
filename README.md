@@ -59,6 +59,10 @@ Powerful file archiver with support for multiple formats and encryption.
 
 Mechanical keyboard sound simulator for your Mac.
 
+## [DaisyDisk](https://daisydiskapp.com/)
+
+Visual disk space analyzer to help find and delete large, unused files.
+
 # Dev
 
 ## [Cursor](https://cursor.sh/)
